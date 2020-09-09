@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage",
     "babel": "babel src -d dist",
     "lint": "eslint .",
     "start": "webpack-dev-server --config webpack.dev.js",
